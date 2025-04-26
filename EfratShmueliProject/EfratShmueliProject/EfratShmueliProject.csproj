@@ -1,0 +1,375 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{4CCB9091-9FC3-459B-9C43-5E8053AE7FC1}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>EfratShmueliProject</RootNamespace>
+    <AssemblyName>EfratShmueliProject</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System">
+      <HintPath>C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.7.2\System.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AllTheUsers\UserKatalog.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="AllTheUsers\UserKatalog.Designer.cs">
+      <DependentUpon>UserKatalog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AllTheUsers\UserMeeting.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="AllTheUsers\UserMeeting.Designer.cs">
+      <DependentUpon>UserMeeting.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CancelsForOK.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CancelsForOK.Designer.cs">
+      <DependentUpon>CancelsForOK.cs</DependentUpon>
+    </Compile>
+    <Compile Include="cancels\Cancels.cs" />
+    <Compile Include="cancels\CancelsAddUpDate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="cancels\CancelsAddUpDate.Designer.cs">
+      <DependentUpon>CancelsAddUpDate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="cancels\CancelsShow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="cancels\CancelsShow.Designer.cs">
+      <DependentUpon>CancelsShow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="cancels\CancelsTbl.cs" />
+    <Compile Include="Cities\Cities.cs" />
+    <Compile Include="Cities\CitiesAddUpdate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cities\CitiesAddUpdate.Designer.cs">
+      <DependentUpon>CitiesAddUpdate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cities\CitiesShow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cities\CitiesShow.Designer.cs">
+      <DependentUpon>CitiesShow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cities\CitiesTbl.cs" />
+    <Compile Include="Classes\Dal.cs" />
+    <Compile Include="Classes\GeneralTbl.cs" />
+    <Compile Include="Classes\Legal.cs" />
+    <Compile Include="Classes\SmartSreach.cs" />
+    <Compile Include="Clients\Clients.cs" />
+    <Compile Include="Clients\ClientsAddUpdate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Clients\ClientsAddUpdate.Designer.cs">
+      <DependentUpon>ClientsAddUpdate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Clients\ClientsShow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Clients\ClientsShow.Designer.cs">
+      <DependentUpon>ClientsShow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Clients\ClientsTbl.cs" />
+    <Compile Include="Designer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Designer.Designer.cs">
+      <DependentUpon>Designer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MittingsForToday.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MittingsForToday.Designer.cs">
+      <DependentUpon>MittingsForToday.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OrdersNotPayed.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OrdersNotPayed.Designer.cs">
+      <DependentUpon>OrdersNotPayed.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ReadyOrders.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReadyOrders.Designer.cs">
+      <DependentUpon>ReadyOrders.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Welcome.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Welcome.Designer.cs">
+      <DependentUpon>Welcome.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KindOrder\KatalogPicture.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KindOrder\KatalogPicture.Designer.cs">
+      <DependentUpon>KatalogPicture.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KindOrder\KindOrder.cs" />
+    <Compile Include="KindOrder\KindOrderAddUpdate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KindOrder\KindOrderAddUpdate.Designer.cs">
+      <DependentUpon>KindOrderAddUpdate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KindOrder\KindOrderShow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KindOrder\KindOrderShow.Designer.cs">
+      <DependentUpon>KindOrderShow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KindOrder\KindOrderTbl.cs" />
+    <Compile Include="Mittings\Mittings.cs" />
+    <Compile Include="Mittings\MittingsAddUpdate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mittings\MittingsAddUpdate.Designer.cs">
+      <DependentUpon>MittingsAddUpdate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Mittings\MittingsShow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mittings\MittingsShow.Designer.cs">
+      <DependentUpon>MittingsShow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Mittings\MittingsTbl.cs" />
+    <Compile Include="OrderDeitals\OrderDeitals.cs" />
+    <Compile Include="OrderDeitals\OrderDeitalsAddUpDate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OrderDeitals\OrderDeitalsAddUpDate.Designer.cs">
+      <DependentUpon>OrderDeitalsAddUpDate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OrderDeitals\OrderDeitalsShow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OrderDeitals\OrderDeitalsShow.Designer.cs">
+      <DependentUpon>OrderDeitalsShow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OrderDeitals\OrderDeitalsTbl.cs" />
+    <Compile Include="Orders\OrdersAddUpdate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Orders\OrdersAddUpdate.Designer.cs">
+      <DependentUpon>OrdersAddUpdate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Orders\Orders.cs" />
+    <Compile Include="Orders\OrdersShow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Orders\OrdersShow.Designer.cs">
+      <DependentUpon>OrdersShow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Orders\OrdersTbl.cs" />
+    <Compile Include="Payments\Payments.cs" />
+    <Compile Include="Payments\PaymentsAddUpdate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Payments\PaymentsAddUpdate.Designer.cs">
+      <DependentUpon>PaymentsAddUpdate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Payments\PaymentsShow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Payments\PaymentsShow.Designer.cs">
+      <DependentUpon>PaymentsShow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Payments\PaymentsTbl.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Schedule\ViewSchedule.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Schedule\ViewSchedule.Designer.cs">
+      <DependentUpon>ViewSchedule.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Workers\WorkersAddUpDate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Workers\WorkersAddUpDate.Designer.cs">
+      <DependentUpon>WorkersAddUpDate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Workers\WorkersShow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Workers\WorkersShow.Designer.cs">
+      <DependentUpon>WorkersShow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Workers\WorkersTbl.cs" />
+    <Compile Include="Workers\Workers.cs" />
+    <Compile Include="WorkingForGrafics.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WorkingForGrafics.Designer.cs">
+      <DependentUpon>WorkingForGrafics.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AllTheUsers\UserKatalog.resx">
+      <DependentUpon>UserKatalog.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AllTheUsers\UserMeeting.resx">
+      <DependentUpon>UserMeeting.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CancelsForOK.resx">
+      <DependentUpon>CancelsForOK.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="cancels\CancelsAddUpDate.resx">
+      <DependentUpon>CancelsAddUpDate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="cancels\CancelsShow.resx">
+      <DependentUpon>CancelsShow.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cities\CitiesAddUpdate.resx">
+      <DependentUpon>CitiesAddUpdate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cities\CitiesShow.resx">
+      <DependentUpon>CitiesShow.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Clients\ClientsAddUpdate.resx">
+      <DependentUpon>ClientsAddUpdate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Clients\ClientsShow.resx">
+      <DependentUpon>ClientsShow.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Designer.resx">
+      <DependentUpon>Designer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KindOrder\KatalogPicture.resx">
+      <DependentUpon>KatalogPicture.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KindOrder\KindOrderAddUpdate.resx">
+      <DependentUpon>KindOrderAddUpdate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KindOrder\KindOrderShow.resx">
+      <DependentUpon>KindOrderShow.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MittingsForToday.resx">
+      <DependentUpon>MittingsForToday.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mittings\MittingsAddUpdate.resx">
+      <DependentUpon>MittingsAddUpdate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mittings\MittingsShow.resx">
+      <DependentUpon>MittingsShow.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OrderDeitals\OrderDeitalsAddUpDate.resx">
+      <DependentUpon>OrderDeitalsAddUpDate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OrderDeitals\OrderDeitalsShow.resx">
+      <DependentUpon>OrderDeitalsShow.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OrdersNotPayed.resx">
+      <DependentUpon>OrdersNotPayed.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Orders\OrdersAddUpdate.resx">
+      <DependentUpon>OrdersAddUpdate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Orders\OrdersShow.resx">
+      <DependentUpon>OrdersShow.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Payments\PaymentsAddUpdate.resx">
+      <DependentUpon>PaymentsAddUpdate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Payments\PaymentsShow.resx">
+      <DependentUpon>PaymentsShow.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="ReadyOrders.resx">
+      <DependentUpon>ReadyOrders.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Schedule\ViewSchedule.resx">
+      <DependentUpon>ViewSchedule.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Welcome.resx">
+      <DependentUpon>Welcome.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Workers\WorkersAddUpDate.resx">
+      <DependentUpon>WorkersAddUpDate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Workers\WorkersShow.resx">
+      <DependentUpon>WorkersShow.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WorkingForGrafics.resx">
+      <DependentUpon>WorkingForGrafics.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="ClassDiagram1.cd" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <Content Include="DataBase\efratSmueliProject.mdb">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

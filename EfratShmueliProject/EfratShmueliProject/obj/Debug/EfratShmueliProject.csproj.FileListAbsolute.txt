@@ -1,0 +1,939 @@
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט יג אייר\EfratShmueliProject\EfratShmueliProject\bin\Debug\DataBase\efratSmueliProject.mdb
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט יג אייר\EfratShmueliProject\EfratShmueliProject\bin\Debug\EfratShmueliProject.exe.config
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט יג אייר\EfratShmueliProject\EfratShmueliProject\bin\Debug\EfratShmueliProject.exe
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט יג אייר\EfratShmueliProject\EfratShmueliProject\bin\Debug\EfratShmueliProject.pdb
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט יג אייר\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.csproj.AssemblyReference.cache
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט יג אייר\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.csproj.SuggestedBindingRedirects.cache
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט יג אייר\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.AllTheUsers.UserKatalog.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט יג אייר\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.AllTheUsers.UserMeeting.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט יג אייר\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.cancels.CancelsAddUpDate.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט יג אייר\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.cancels.CancelsShow.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט יג אייר\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Cities.CitiesAddUpdate.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט יג אייר\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Cities.CitiesShow.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט יג אייר\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Clients.ClientsAddUpdate.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט יג אייר\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Clients.ClientsShow.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט יג אייר\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Form1.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט יג אייר\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.KindOrder.KatalogPicture.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט יג אייר\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.KindOrder.KindOrderAddUpdate.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט יג אייר\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.KindOrder.KindOrderShow.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט יג אייר\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Mittings.MittingsAddUpdate.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט יג אייר\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Mittings.MittingsShow.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט יג אייר\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.OrderDeitals.OrderDeitalsAddUpDate.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט יג אייר\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.OrderDeitals.OrderDeitalsShow.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט יג אייר\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Orders.OrdersAddUpdate.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט יג אייר\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Orders.OrdersShow.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט יג אייר\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Payments.PaymentsAddUpdate.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט יג אייר\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Payments.PaymentsShow.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט יג אייר\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Properties.Resources.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט יג אייר\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Schedule.ViewSchedule.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט יג אייר\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Workers.WorkersAddUpDate.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט יג אייר\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Workers.WorkersShow.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט יג אייר\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.csproj.GenerateResource.cache
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט יג אייר\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.csproj.CoreCompileInputs.cache
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט יג אייר\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.exe
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט יג אייר\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.pdb
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט יז אייר\EfratShmueliProject\EfratShmueliProject\bin\Debug\DataBase\efratSmueliProject.mdb
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט יז אייר\EfratShmueliProject\EfratShmueliProject\bin\Debug\EfratShmueliProject.exe.config
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט יז אייר\EfratShmueliProject\EfratShmueliProject\bin\Debug\EfratShmueliProject.exe
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט יז אייר\EfratShmueliProject\EfratShmueliProject\bin\Debug\EfratShmueliProject.pdb
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט יז אייר\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.csproj.AssemblyReference.cache
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט יז אייר\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.csproj.SuggestedBindingRedirects.cache
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט יז אייר\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.AllTheUsers.UserKatalog.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט יז אייר\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.AllTheUsers.UserMeeting.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט יז אייר\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.cancels.CancelsAddUpDate.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט יז אייר\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.cancels.CancelsShow.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט יז אייר\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Cities.CitiesAddUpdate.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט יז אייר\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Cities.CitiesShow.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט יז אייר\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Clients.ClientsAddUpdate.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט יז אייר\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Clients.ClientsShow.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט יז אייר\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Form1.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט יז אייר\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.KindOrder.KatalogPicture.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט יז אייר\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.KindOrder.KindOrderAddUpdate.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט יז אייר\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.KindOrder.KindOrderShow.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט יז אייר\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Mittings.MittingsAddUpdate.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט יז אייר\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Mittings.MittingsShow.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט יז אייר\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.OrderDeitals.OrderDeitalsAddUpDate.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט יז אייר\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.OrderDeitals.OrderDeitalsShow.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט יז אייר\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Orders.OrdersAddUpdate.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט יז אייר\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Orders.OrdersShow.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט יז אייר\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Payments.PaymentsAddUpdate.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט יז אייר\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Payments.PaymentsShow.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט יז אייר\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Properties.Resources.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט יז אייר\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Schedule.ViewSchedule.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט יז אייר\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Workers.WorkersAddUpDate.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט יז אייר\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Workers.WorkersShow.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט יז אייר\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.csproj.GenerateResource.cache
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט יז אייר\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.csproj.CoreCompileInputs.cache
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט יז אייר\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.exe
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט יז אייר\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.pdb
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט יז אייר\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Welcome.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט יז אייר\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.WorkingForGrafics.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט כ אייר\EfratShmueliProject\EfratShmueliProject\bin\Debug\DataBase\efratSmueliProject.mdb
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט כ אייר\EfratShmueliProject\EfratShmueliProject\bin\Debug\EfratShmueliProject.exe.config
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט כ אייר\EfratShmueliProject\EfratShmueliProject\bin\Debug\EfratShmueliProject.exe
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט כ אייר\EfratShmueliProject\EfratShmueliProject\bin\Debug\EfratShmueliProject.pdb
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט כ אייר\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.csproj.AssemblyReference.cache
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט כ אייר\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.csproj.SuggestedBindingRedirects.cache
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט כ אייר\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.AllTheUsers.UserKatalog.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט כ אייר\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.AllTheUsers.UserMeeting.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט כ אייר\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.cancels.CancelsAddUpDate.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט כ אייר\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.cancels.CancelsShow.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט כ אייר\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Cities.CitiesAddUpdate.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט כ אייר\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Cities.CitiesShow.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט כ אייר\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Clients.ClientsAddUpdate.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט כ אייר\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Clients.ClientsShow.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט כ אייר\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Form1.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט כ אייר\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.KindOrder.KatalogPicture.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט כ אייר\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.KindOrder.KindOrderAddUpdate.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט כ אייר\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.KindOrder.KindOrderShow.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט כ אייר\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Mittings.MittingsAddUpdate.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט כ אייר\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Mittings.MittingsShow.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט כ אייר\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.OrderDeitals.OrderDeitalsAddUpDate.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט כ אייר\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.OrderDeitals.OrderDeitalsShow.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט כ אייר\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Orders.OrdersAddUpdate.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט כ אייר\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Orders.OrdersShow.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט כ אייר\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Payments.PaymentsAddUpdate.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט כ אייר\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Payments.PaymentsShow.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט כ אייר\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Properties.Resources.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט כ אייר\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Schedule.ViewSchedule.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט כ אייר\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Welcome.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט כ אייר\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Workers.WorkersAddUpDate.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט כ אייר\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Workers.WorkersShow.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט כ אייר\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.WorkingForGrafics.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט כ אייר\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.csproj.GenerateResource.cache
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט כ אייר\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.csproj.CoreCompileInputs.cache
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט כ אייר\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.exe
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט כ אייר\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.pdb
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט כ אייר\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Designer.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט כד אייר\EfratShmueliProject\EfratShmueliProject\bin\Debug\DataBase\efratSmueliProject.mdb
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט כד אייר\EfratShmueliProject\EfratShmueliProject\bin\Debug\EfratShmueliProject.exe.config
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט כד אייר\EfratShmueliProject\EfratShmueliProject\bin\Debug\EfratShmueliProject.exe
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט כד אייר\EfratShmueliProject\EfratShmueliProject\bin\Debug\EfratShmueliProject.pdb
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט כד אייר\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.csproj.AssemblyReference.cache
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט כד אייר\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.csproj.SuggestedBindingRedirects.cache
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט כד אייר\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.AllTheUsers.UserKatalog.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט כד אייר\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.AllTheUsers.UserMeeting.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט כד אייר\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.cancels.CancelsAddUpDate.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט כד אייר\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.cancels.CancelsShow.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט כד אייר\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Cities.CitiesAddUpdate.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט כד אייר\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Cities.CitiesShow.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט כד אייר\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Clients.ClientsAddUpdate.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט כד אייר\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Clients.ClientsShow.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט כד אייר\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Designer.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט כד אייר\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Form1.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט כד אייר\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.KindOrder.KatalogPicture.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט כד אייר\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.KindOrder.KindOrderAddUpdate.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט כד אייר\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.KindOrder.KindOrderShow.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט כד אייר\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Mittings.MittingsAddUpdate.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט כד אייר\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Mittings.MittingsShow.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט כד אייר\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.OrderDeitals.OrderDeitalsAddUpDate.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט כד אייר\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.OrderDeitals.OrderDeitalsShow.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט כד אייר\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Orders.OrdersAddUpdate.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט כד אייר\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Orders.OrdersShow.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט כד אייר\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Payments.PaymentsAddUpdate.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט כד אייר\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Payments.PaymentsShow.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט כד אייר\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Properties.Resources.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט כד אייר\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Schedule.ViewSchedule.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט כד אייר\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Welcome.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט כד אייר\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Workers.WorkersAddUpDate.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט כד אייר\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Workers.WorkersShow.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט כד אייר\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.WorkingForGrafics.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט כד אייר\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.csproj.GenerateResource.cache
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט כד אייר\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.csproj.CoreCompileInputs.cache
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט כד אייר\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.exe
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט כד אייר\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.pdb
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט כח אייר\EfratShmueliProject\EfratShmueliProject\bin\Debug\DataBase\efratSmueliProject.mdb
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט כח אייר\EfratShmueliProject\EfratShmueliProject\bin\Debug\EfratShmueliProject.exe.config
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט כח אייר\EfratShmueliProject\EfratShmueliProject\bin\Debug\EfratShmueliProject.exe
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט כח אייר\EfratShmueliProject\EfratShmueliProject\bin\Debug\EfratShmueliProject.pdb
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט כח אייר\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.csproj.AssemblyReference.cache
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט כח אייר\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.csproj.SuggestedBindingRedirects.cache
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט כח אייר\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.AllTheUsers.UserKatalog.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט כח אייר\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.AllTheUsers.UserMeeting.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט כח אייר\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.cancels.CancelsAddUpDate.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט כח אייר\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.cancels.CancelsShow.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט כח אייר\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Cities.CitiesAddUpdate.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט כח אייר\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Cities.CitiesShow.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט כח אייר\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Clients.ClientsAddUpdate.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט כח אייר\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Clients.ClientsShow.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט כח אייר\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Designer.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט כח אייר\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Form1.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט כח אייר\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.KindOrder.KatalogPicture.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט כח אייר\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.KindOrder.KindOrderAddUpdate.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט כח אייר\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.KindOrder.KindOrderShow.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט כח אייר\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Mittings.MittingsAddUpdate.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט כח אייר\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Mittings.MittingsShow.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט כח אייר\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.OrderDeitals.OrderDeitalsAddUpDate.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט כח אייר\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.OrderDeitals.OrderDeitalsShow.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט כח אייר\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Orders.OrdersAddUpdate.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט כח אייר\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Orders.OrdersShow.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט כח אייר\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Payments.PaymentsAddUpdate.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט כח אייר\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Payments.PaymentsShow.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט כח אייר\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Properties.Resources.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט כח אייר\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Schedule.ViewSchedule.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט כח אייר\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Welcome.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט כח אייר\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Workers.WorkersAddUpDate.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט כח אייר\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Workers.WorkersShow.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט כח אייר\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.WorkingForGrafics.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט כח אייר\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.csproj.GenerateResource.cache
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט כח אייר\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.csproj.CoreCompileInputs.cache
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט כח אייר\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.exe
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט כח אייר\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.pdb
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט א סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.csproj.AssemblyReference.cache
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט א סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.csproj.SuggestedBindingRedirects.cache
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט א סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.AllTheUsers.UserKatalog.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט א סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.AllTheUsers.UserMeeting.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט א סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.cancels.CancelsAddUpDate.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט א סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.cancels.CancelsShow.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט א סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Cities.CitiesAddUpdate.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט א סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Cities.CitiesShow.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט א סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Clients.ClientsAddUpdate.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט א סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Clients.ClientsShow.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט א סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Designer.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט א סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Form1.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט א סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.KindOrder.KatalogPicture.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט א סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.KindOrder.KindOrderAddUpdate.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט א סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.KindOrder.KindOrderShow.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט א סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Mittings.MittingsAddUpdate.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט א סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Mittings.MittingsShow.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט א סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.OrderDeitals.OrderDeitalsAddUpDate.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט א סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.OrderDeitals.OrderDeitalsShow.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט א סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Orders.OrdersAddUpdate.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט א סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Orders.OrdersShow.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט א סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Payments.PaymentsAddUpdate.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט א סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Payments.PaymentsShow.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט א סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Properties.Resources.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט א סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Schedule.ViewSchedule.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט א סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Welcome.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט א סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Workers.WorkersAddUpDate.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט א סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Workers.WorkersShow.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט א סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.WorkingForGrafics.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט א סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.csproj.GenerateResource.cache
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט א סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.csproj.CoreCompileInputs.cache
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט א סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.exe
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט א סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.pdb
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט א סיוון\EfratShmueliProject\EfratShmueliProject\bin\Debug\DataBase\efratSmueliProject.mdb
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט א סיוון\EfratShmueliProject\EfratShmueliProject\bin\Debug\EfratShmueliProject.exe.config
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט א סיוון\EfratShmueliProject\EfratShmueliProject\bin\Debug\EfratShmueliProject.exe
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט א סיוון\EfratShmueliProject\EfratShmueliProject\bin\Debug\EfratShmueliProject.pdb
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט ב סיוון\EfratShmueliProject\EfratShmueliProject\bin\Debug\DataBase\efratSmueliProject.mdb
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט ב סיוון\EfratShmueliProject\EfratShmueliProject\bin\Debug\EfratShmueliProject.exe.config
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט ב סיוון\EfratShmueliProject\EfratShmueliProject\bin\Debug\EfratShmueliProject.exe
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט ב סיוון\EfratShmueliProject\EfratShmueliProject\bin\Debug\EfratShmueliProject.pdb
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט ב סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.csproj.AssemblyReference.cache
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט ב סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.csproj.SuggestedBindingRedirects.cache
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט ב סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.AllTheUsers.UserKatalog.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט ב סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.AllTheUsers.UserMeeting.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט ב סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.cancels.CancelsAddUpDate.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט ב סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.cancels.CancelsShow.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט ב סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Cities.CitiesAddUpdate.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט ב סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Cities.CitiesShow.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט ב סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Clients.ClientsAddUpdate.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט ב סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Clients.ClientsShow.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט ב סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Designer.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט ב סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Form1.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט ב סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.KindOrder.KatalogPicture.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט ב סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.KindOrder.KindOrderAddUpdate.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט ב סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.KindOrder.KindOrderShow.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט ב סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Mittings.MittingsAddUpdate.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט ב סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Mittings.MittingsShow.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט ב סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.OrderDeitals.OrderDeitalsAddUpDate.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט ב סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.OrderDeitals.OrderDeitalsShow.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט ב סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Orders.OrdersAddUpdate.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט ב סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Orders.OrdersShow.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט ב סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Payments.PaymentsAddUpdate.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט ב סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Payments.PaymentsShow.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט ב סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Properties.Resources.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט ב סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Schedule.ViewSchedule.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט ב סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Welcome.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט ב סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Workers.WorkersAddUpDate.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט ב סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Workers.WorkersShow.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט ב סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.WorkingForGrafics.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט ב סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.csproj.GenerateResource.cache
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט ב סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.csproj.CoreCompileInputs.cache
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט ב סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.exe
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט ב סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.pdb
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט ג סיוון\EfratShmueliProject\EfratShmueliProject\bin\Debug\DataBase\efratSmueliProject.mdb
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט ג סיוון\EfratShmueliProject\EfratShmueliProject\bin\Debug\EfratShmueliProject.exe.config
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט ג סיוון\EfratShmueliProject\EfratShmueliProject\bin\Debug\EfratShmueliProject.exe
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט ג סיוון\EfratShmueliProject\EfratShmueliProject\bin\Debug\EfratShmueliProject.pdb
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט ג סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.csproj.AssemblyReference.cache
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט ג סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.csproj.SuggestedBindingRedirects.cache
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט ג סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.AllTheUsers.UserKatalog.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט ג סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.AllTheUsers.UserMeeting.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט ג סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.cancels.CancelsAddUpDate.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט ג סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.cancels.CancelsShow.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט ג סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Cities.CitiesAddUpdate.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט ג סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Cities.CitiesShow.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט ג סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Clients.ClientsAddUpdate.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט ג סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Clients.ClientsShow.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט ג סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Designer.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט ג סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Form1.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט ג סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.KindOrder.KatalogPicture.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט ג סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.KindOrder.KindOrderAddUpdate.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט ג סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.KindOrder.KindOrderShow.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט ג סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Mittings.MittingsAddUpdate.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט ג סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Mittings.MittingsShow.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט ג סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.OrderDeitals.OrderDeitalsAddUpDate.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט ג סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.OrderDeitals.OrderDeitalsShow.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט ג סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Orders.OrdersAddUpdate.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט ג סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Orders.OrdersShow.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט ג סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Payments.PaymentsAddUpdate.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט ג סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Payments.PaymentsShow.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט ג סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Properties.Resources.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט ג סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Schedule.ViewSchedule.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט ג סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Welcome.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט ג סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Workers.WorkersAddUpDate.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט ג סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Workers.WorkersShow.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט ג סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.WorkingForGrafics.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט ג סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.csproj.GenerateResource.cache
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט ג סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.csproj.CoreCompileInputs.cache
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט ג סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.exe
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט ג סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.pdb
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט ג סיוון\EfratShmueliProject\EfratShmueliProject\bin\Debug\DataBase\efratSmueliProject.mdb
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט ג סיוון\EfratShmueliProject\EfratShmueliProject\bin\Debug\EfratShmueliProject.exe.config
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט ג סיוון\EfratShmueliProject\EfratShmueliProject\bin\Debug\EfratShmueliProject.exe
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט ג סיוון\EfratShmueliProject\EfratShmueliProject\bin\Debug\EfratShmueliProject.pdb
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט ג סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.csproj.AssemblyReference.cache
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט ג סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.csproj.SuggestedBindingRedirects.cache
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט ג סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.AllTheUsers.UserKatalog.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט ג סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.AllTheUsers.UserMeeting.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט ג סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.cancels.CancelsAddUpDate.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט ג סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.cancels.CancelsShow.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט ג סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Cities.CitiesAddUpdate.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט ג סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Cities.CitiesShow.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט ג סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Clients.ClientsAddUpdate.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט ג סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Clients.ClientsShow.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט ג סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Designer.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט ג סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Form1.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט ג סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.KindOrder.KatalogPicture.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט ג סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.KindOrder.KindOrderAddUpdate.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט ג סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.KindOrder.KindOrderShow.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט ג סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Mittings.MittingsAddUpdate.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט ג סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Mittings.MittingsShow.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט ג סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.OrderDeitals.OrderDeitalsAddUpDate.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט ג סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.OrderDeitals.OrderDeitalsShow.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט ג סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Orders.OrdersAddUpdate.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט ג סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Orders.OrdersShow.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט ג סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Payments.PaymentsAddUpdate.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט ג סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Payments.PaymentsShow.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט ג סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Properties.Resources.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט ג סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Schedule.ViewSchedule.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט ג סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Welcome.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט ג סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Workers.WorkersAddUpDate.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט ג סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Workers.WorkersShow.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט ג סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.WorkingForGrafics.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט ג סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.csproj.GenerateResource.cache
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט ג סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.csproj.CoreCompileInputs.cache
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט ג סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.exe
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט ג סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.pdb
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט ד סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.csproj.AssemblyReference.cache
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט ד סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.csproj.SuggestedBindingRedirects.cache
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט ד סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.AllTheUsers.UserKatalog.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט ד סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.AllTheUsers.UserMeeting.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט ד סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.cancels.CancelsAddUpDate.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט ד סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.cancels.CancelsShow.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט ד סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Cities.CitiesAddUpdate.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט ד סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Cities.CitiesShow.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט ד סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Clients.ClientsAddUpdate.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט ד סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Clients.ClientsShow.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט ד סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Designer.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט ד סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Form1.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט ד סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.KindOrder.KatalogPicture.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט ד סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.KindOrder.KindOrderAddUpdate.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט ד סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.KindOrder.KindOrderShow.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט ד סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Mittings.MittingsAddUpdate.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט ד סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Mittings.MittingsShow.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט ד סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.OrderDeitals.OrderDeitalsAddUpDate.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט ד סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.OrderDeitals.OrderDeitalsShow.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט ד סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Orders.OrdersAddUpdate.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט ד סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Orders.OrdersShow.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט ד סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Payments.PaymentsAddUpdate.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט ד סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Payments.PaymentsShow.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט ד סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Properties.Resources.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט ד סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Schedule.ViewSchedule.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט ד סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Welcome.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט ד סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Workers.WorkersAddUpDate.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט ד סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Workers.WorkersShow.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט ד סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.WorkingForGrafics.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט ד סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.csproj.GenerateResource.cache
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט ד סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.csproj.CoreCompileInputs.cache
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט ד סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.exe
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט ד סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.pdb
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט ד סיוון\EfratShmueliProject\EfratShmueliProject\bin\Debug\DataBase\efratSmueliProject.mdb
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט ד סיוון\EfratShmueliProject\EfratShmueliProject\bin\Debug\EfratShmueliProject.exe.config
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט ד סיוון\EfratShmueliProject\EfratShmueliProject\bin\Debug\EfratShmueliProject.exe
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט ד סיוון\EfratShmueliProject\EfratShmueliProject\bin\Debug\EfratShmueliProject.pdb
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט ד סיוון\EfratShmueliProject\EfratShmueliProject\bin\Debug\DataBase\efratSmueliProject.mdb
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט ד סיוון\EfratShmueliProject\EfratShmueliProject\bin\Debug\EfratShmueliProject.exe.config
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט ד סיוון\EfratShmueliProject\EfratShmueliProject\bin\Debug\EfratShmueliProject.exe
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט ד סיוון\EfratShmueliProject\EfratShmueliProject\bin\Debug\EfratShmueliProject.pdb
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט ד סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.csproj.AssemblyReference.cache
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט ד סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.csproj.SuggestedBindingRedirects.cache
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט ד סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.AllTheUsers.UserKatalog.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט ד סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.AllTheUsers.UserMeeting.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט ד סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.cancels.CancelsAddUpDate.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט ד סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.cancels.CancelsShow.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט ד סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Cities.CitiesAddUpdate.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט ד סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Cities.CitiesShow.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט ד סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Clients.ClientsAddUpdate.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט ד סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Clients.ClientsShow.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט ד סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Designer.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט ד סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Form1.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט ד סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.KindOrder.KatalogPicture.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט ד סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.KindOrder.KindOrderAddUpdate.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט ד סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.KindOrder.KindOrderShow.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט ד סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Mittings.MittingsAddUpdate.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט ד סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Mittings.MittingsShow.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט ד סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.OrderDeitals.OrderDeitalsAddUpDate.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט ד סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.OrderDeitals.OrderDeitalsShow.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט ד סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Orders.OrdersAddUpdate.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט ד סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Orders.OrdersShow.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט ד סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Payments.PaymentsAddUpdate.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט ד סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Payments.PaymentsShow.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט ד סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Properties.Resources.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט ד סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Schedule.ViewSchedule.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט ד סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Welcome.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט ד סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Workers.WorkersAddUpDate.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט ד סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Workers.WorkersShow.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט ד סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.WorkingForGrafics.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט ד סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.csproj.GenerateResource.cache
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט ד סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.csproj.CoreCompileInputs.cache
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט ד סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.exe
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט ד סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.pdb
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט ד סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.CancelsForOK.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט ד סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.MittingsForToday.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט ד סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.ReadyOrders.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט ד סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.OrdersNotPayed.resources
+D:\פרויקט ד סיוון\EfratShmueliProject\EfratShmueliProject\bin\Debug\DataBase\efratSmueliProject.mdb
+D:\פרויקט ד סיוון\EfratShmueliProject\EfratShmueliProject\bin\Debug\EfratShmueliProject.exe.config
+D:\פרויקט ד סיוון\EfratShmueliProject\EfratShmueliProject\bin\Debug\EfratShmueliProject.exe
+D:\פרויקט ד סיוון\EfratShmueliProject\EfratShmueliProject\bin\Debug\EfratShmueliProject.pdb
+D:\פרויקט ד סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.csproj.AssemblyReference.cache
+D:\פרויקט ד סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.csproj.SuggestedBindingRedirects.cache
+D:\פרויקט ד סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.AllTheUsers.UserKatalog.resources
+D:\פרויקט ד סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.AllTheUsers.UserMeeting.resources
+D:\פרויקט ד סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.CancelsForOK.resources
+D:\פרויקט ד סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.cancels.CancelsAddUpDate.resources
+D:\פרויקט ד סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.cancels.CancelsShow.resources
+D:\פרויקט ד סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Cities.CitiesAddUpdate.resources
+D:\פרויקט ד סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Cities.CitiesShow.resources
+D:\פרויקט ד סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Clients.ClientsAddUpdate.resources
+D:\פרויקט ד סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Clients.ClientsShow.resources
+D:\פרויקט ד סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Designer.resources
+D:\פרויקט ד סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Form1.resources
+D:\פרויקט ד סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.KindOrder.KatalogPicture.resources
+D:\פרויקט ד סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.KindOrder.KindOrderAddUpdate.resources
+D:\פרויקט ד סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.KindOrder.KindOrderShow.resources
+D:\פרויקט ד סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.MittingsForToday.resources
+D:\פרויקט ד סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Mittings.MittingsAddUpdate.resources
+D:\פרויקט ד סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Mittings.MittingsShow.resources
+D:\פרויקט ד סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.OrderDeitals.OrderDeitalsAddUpDate.resources
+D:\פרויקט ד סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.OrderDeitals.OrderDeitalsShow.resources
+D:\פרויקט ד סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.OrdersNotPayed.resources
+D:\פרויקט ד סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Orders.OrdersAddUpdate.resources
+D:\פרויקט ד סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Orders.OrdersShow.resources
+D:\פרויקט ד סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Payments.PaymentsAddUpdate.resources
+D:\פרויקט ד סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Payments.PaymentsShow.resources
+D:\פרויקט ד סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Properties.Resources.resources
+D:\פרויקט ד סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.ReadyOrders.resources
+D:\פרויקט ד סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Schedule.ViewSchedule.resources
+D:\פרויקט ד סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Welcome.resources
+D:\פרויקט ד סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Workers.WorkersAddUpDate.resources
+D:\פרויקט ד סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Workers.WorkersShow.resources
+D:\פרויקט ד סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.WorkingForGrafics.resources
+D:\פרויקט ד סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.csproj.GenerateResource.cache
+D:\פרויקט ד סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.csproj.CoreCompileInputs.cache
+D:\פרויקט ד סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.exe
+D:\פרויקט ד סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.pdb
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט ח סיוון\EfratShmueliProject\EfratShmueliProject\bin\Debug\DataBase\efratSmueliProject.mdb
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט ח סיוון\EfratShmueliProject\EfratShmueliProject\bin\Debug\EfratShmueliProject.exe.config
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט ח סיוון\EfratShmueliProject\EfratShmueliProject\bin\Debug\EfratShmueliProject.exe
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט ח סיוון\EfratShmueliProject\EfratShmueliProject\bin\Debug\EfratShmueliProject.pdb
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט ח סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.csproj.AssemblyReference.cache
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט ח סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.csproj.SuggestedBindingRedirects.cache
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט ח סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.AllTheUsers.UserKatalog.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט ח סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.AllTheUsers.UserMeeting.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט ח סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.CancelsForOK.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט ח סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.cancels.CancelsAddUpDate.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט ח סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.cancels.CancelsShow.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט ח סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Cities.CitiesAddUpdate.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט ח סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Cities.CitiesShow.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט ח סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Clients.ClientsAddUpdate.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט ח סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Clients.ClientsShow.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט ח סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Designer.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט ח סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Form1.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט ח סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.KindOrder.KatalogPicture.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט ח סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.KindOrder.KindOrderAddUpdate.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט ח סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.KindOrder.KindOrderShow.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט ח סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.MittingsForToday.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט ח סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Mittings.MittingsAddUpdate.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט ח סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Mittings.MittingsShow.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט ח סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.OrderDeitals.OrderDeitalsAddUpDate.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט ח סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.OrderDeitals.OrderDeitalsShow.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט ח סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.OrdersNotPayed.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט ח סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Orders.OrdersAddUpdate.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט ח סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Orders.OrdersShow.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט ח סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Payments.PaymentsAddUpdate.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט ח סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Payments.PaymentsShow.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט ח סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Properties.Resources.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט ח סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.ReadyOrders.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט ח סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Schedule.ViewSchedule.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט ח סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Welcome.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט ח סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Workers.WorkersAddUpDate.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט ח סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Workers.WorkersShow.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט ח סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.WorkingForGrafics.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט ח סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.csproj.GenerateResource.cache
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט ח סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.csproj.CoreCompileInputs.cache
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט ח סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.exe
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט ח סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.pdb
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט יא סיוון\EfratShmueliProject\EfratShmueliProject\bin\Debug\DataBase\efratSmueliProject.mdb
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט יא סיוון\EfratShmueliProject\EfratShmueliProject\bin\Debug\EfratShmueliProject.exe.config
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט יא סיוון\EfratShmueliProject\EfratShmueliProject\bin\Debug\EfratShmueliProject.exe
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט יא סיוון\EfratShmueliProject\EfratShmueliProject\bin\Debug\EfratShmueliProject.pdb
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט יא סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.csproj.AssemblyReference.cache
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט יא סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.csproj.SuggestedBindingRedirects.cache
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט יא סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.AllTheUsers.UserKatalog.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט יא סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.AllTheUsers.UserMeeting.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט יא סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.CancelsForOK.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט יא סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.cancels.CancelsAddUpDate.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט יא סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.cancels.CancelsShow.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט יא סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Cities.CitiesAddUpdate.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט יא סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Cities.CitiesShow.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט יא סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Clients.ClientsAddUpdate.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט יא סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Clients.ClientsShow.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט יא סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Designer.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט יא סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Form1.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט יא סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.KindOrder.KatalogPicture.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט יא סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.KindOrder.KindOrderAddUpdate.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט יא סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.KindOrder.KindOrderShow.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט יא סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.MittingsForToday.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט יא סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Mittings.MittingsAddUpdate.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט יא סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Mittings.MittingsShow.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט יא סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.OrderDeitals.OrderDeitalsAddUpDate.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט יא סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.OrderDeitals.OrderDeitalsShow.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט יא סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.OrdersNotPayed.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט יא סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Orders.OrdersAddUpdate.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט יא סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Orders.OrdersShow.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט יא סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Payments.PaymentsAddUpdate.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט יא סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Payments.PaymentsShow.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט יא סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Properties.Resources.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט יא סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.ReadyOrders.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט יא סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Schedule.ViewSchedule.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט יא סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Welcome.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט יא סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Workers.WorkersAddUpDate.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט יא סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Workers.WorkersShow.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט יא סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.WorkingForGrafics.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט יא סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.csproj.GenerateResource.cache
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט יא סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.csproj.CoreCompileInputs.cache
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט יא סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.exe
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט יא סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.pdb
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט יז סיוון\EfratShmueliProject\EfratShmueliProject\bin\Debug\DataBase\efratSmueliProject.mdb
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט יז סיוון\EfratShmueliProject\EfratShmueliProject\bin\Debug\EfratShmueliProject.exe.config
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט יז סיוון\EfratShmueliProject\EfratShmueliProject\bin\Debug\EfratShmueliProject.exe
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט יז סיוון\EfratShmueliProject\EfratShmueliProject\bin\Debug\EfratShmueliProject.pdb
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט יז סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.csproj.AssemblyReference.cache
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט יז סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.csproj.SuggestedBindingRedirects.cache
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט יז סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.AllTheUsers.UserKatalog.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט יז סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.AllTheUsers.UserMeeting.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט יז סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.CancelsForOK.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט יז סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.cancels.CancelsAddUpDate.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט יז סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.cancels.CancelsShow.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט יז סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Cities.CitiesAddUpdate.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט יז סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Cities.CitiesShow.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט יז סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Clients.ClientsAddUpdate.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט יז סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Clients.ClientsShow.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט יז סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Designer.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט יז סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Form1.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט יז סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.KindOrder.KatalogPicture.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט יז סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.KindOrder.KindOrderAddUpdate.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט יז סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.KindOrder.KindOrderShow.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט יז סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.MittingsForToday.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט יז סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Mittings.MittingsAddUpdate.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט יז סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Mittings.MittingsShow.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט יז סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.OrderDeitals.OrderDeitalsAddUpDate.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט יז סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.OrderDeitals.OrderDeitalsShow.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט יז סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.OrdersNotPayed.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט יז סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Orders.OrdersAddUpdate.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט יז סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Orders.OrdersShow.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט יז סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Payments.PaymentsAddUpdate.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט יז סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Payments.PaymentsShow.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט יז סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Properties.Resources.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט יז סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.ReadyOrders.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט יז סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Schedule.ViewSchedule.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט יז סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Welcome.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט יז סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Workers.WorkersAddUpDate.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט יז סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Workers.WorkersShow.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט יז סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.WorkingForGrafics.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט יז סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.csproj.GenerateResource.cache
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט יז סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.csproj.CoreCompileInputs.cache
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט יז סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.exe
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט יז סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.pdb
+K:\כיתה ד\תכנות יב\efratShmueli\פרויקט יז סיוון\EfratShmueliProject\EfratShmueliProject\bin\Debug\DataBase\efratSmueliProject.mdb
+K:\כיתה ד\תכנות יב\efratShmueli\פרויקט יז סיוון\EfratShmueliProject\EfratShmueliProject\bin\Debug\EfratShmueliProject.exe.config
+K:\כיתה ד\תכנות יב\efratShmueli\פרויקט יז סיוון\EfratShmueliProject\EfratShmueliProject\bin\Debug\EfratShmueliProject.exe
+K:\כיתה ד\תכנות יב\efratShmueli\פרויקט יז סיוון\EfratShmueliProject\EfratShmueliProject\bin\Debug\EfratShmueliProject.pdb
+K:\כיתה ד\תכנות יב\efratShmueli\פרויקט יז סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.csproj.AssemblyReference.cache
+K:\כיתה ד\תכנות יב\efratShmueli\פרויקט יז סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.csproj.SuggestedBindingRedirects.cache
+K:\כיתה ד\תכנות יב\efratShmueli\פרויקט יז סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.AllTheUsers.UserKatalog.resources
+K:\כיתה ד\תכנות יב\efratShmueli\פרויקט יז סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.AllTheUsers.UserMeeting.resources
+K:\כיתה ד\תכנות יב\efratShmueli\פרויקט יז סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.CancelsForOK.resources
+K:\כיתה ד\תכנות יב\efratShmueli\פרויקט יז סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.cancels.CancelsAddUpDate.resources
+K:\כיתה ד\תכנות יב\efratShmueli\פרויקט יז סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.cancels.CancelsShow.resources
+K:\כיתה ד\תכנות יב\efratShmueli\פרויקט יז סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Cities.CitiesAddUpdate.resources
+K:\כיתה ד\תכנות יב\efratShmueli\פרויקט יז סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Cities.CitiesShow.resources
+K:\כיתה ד\תכנות יב\efratShmueli\פרויקט יז סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Clients.ClientsAddUpdate.resources
+K:\כיתה ד\תכנות יב\efratShmueli\פרויקט יז סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Clients.ClientsShow.resources
+K:\כיתה ד\תכנות יב\efratShmueli\פרויקט יז סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Designer.resources
+K:\כיתה ד\תכנות יב\efratShmueli\פרויקט יז סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Form1.resources
+K:\כיתה ד\תכנות יב\efratShmueli\פרויקט יז סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.KindOrder.KatalogPicture.resources
+K:\כיתה ד\תכנות יב\efratShmueli\פרויקט יז סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.KindOrder.KindOrderAddUpdate.resources
+K:\כיתה ד\תכנות יב\efratShmueli\פרויקט יז סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.KindOrder.KindOrderShow.resources
+K:\כיתה ד\תכנות יב\efratShmueli\פרויקט יז סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.MittingsForToday.resources
+K:\כיתה ד\תכנות יב\efratShmueli\פרויקט יז סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Mittings.MittingsAddUpdate.resources
+K:\כיתה ד\תכנות יב\efratShmueli\פרויקט יז סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Mittings.MittingsShow.resources
+K:\כיתה ד\תכנות יב\efratShmueli\פרויקט יז סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.OrderDeitals.OrderDeitalsAddUpDate.resources
+K:\כיתה ד\תכנות יב\efratShmueli\פרויקט יז סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.OrderDeitals.OrderDeitalsShow.resources
+K:\כיתה ד\תכנות יב\efratShmueli\פרויקט יז סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.OrdersNotPayed.resources
+K:\כיתה ד\תכנות יב\efratShmueli\פרויקט יז סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Orders.OrdersAddUpdate.resources
+K:\כיתה ד\תכנות יב\efratShmueli\פרויקט יז סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Orders.OrdersShow.resources
+K:\כיתה ד\תכנות יב\efratShmueli\פרויקט יז סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Payments.PaymentsAddUpdate.resources
+K:\כיתה ד\תכנות יב\efratShmueli\פרויקט יז סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Payments.PaymentsShow.resources
+K:\כיתה ד\תכנות יב\efratShmueli\פרויקט יז סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Properties.Resources.resources
+K:\כיתה ד\תכנות יב\efratShmueli\פרויקט יז סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.ReadyOrders.resources
+K:\כיתה ד\תכנות יב\efratShmueli\פרויקט יז סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Schedule.ViewSchedule.resources
+K:\כיתה ד\תכנות יב\efratShmueli\פרויקט יז סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Welcome.resources
+K:\כיתה ד\תכנות יב\efratShmueli\פרויקט יז סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Workers.WorkersAddUpDate.resources
+K:\כיתה ד\תכנות יב\efratShmueli\פרויקט יז סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Workers.WorkersShow.resources
+K:\כיתה ד\תכנות יב\efratShmueli\פרויקט יז סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.WorkingForGrafics.resources
+K:\כיתה ד\תכנות יב\efratShmueli\פרויקט יז סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.csproj.GenerateResource.cache
+K:\כיתה ד\תכנות יב\efratShmueli\פרויקט יז סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.csproj.CoreCompileInputs.cache
+K:\כיתה ד\תכנות יב\efratShmueli\פרויקט יז סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.exe
+K:\כיתה ד\תכנות יב\efratShmueli\פרויקט יז סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.pdb
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט יח סיוון\EfratShmueliProject\EfratShmueliProject\bin\Debug\DataBase\efratSmueliProject.mdb
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט יח סיוון\EfratShmueliProject\EfratShmueliProject\bin\Debug\EfratShmueliProject.exe.config
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט יח סיוון\EfratShmueliProject\EfratShmueliProject\bin\Debug\EfratShmueliProject.exe
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט יח סיוון\EfratShmueliProject\EfratShmueliProject\bin\Debug\EfratShmueliProject.pdb
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט יח סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.csproj.AssemblyReference.cache
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט יח סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.csproj.SuggestedBindingRedirects.cache
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט יח סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.AllTheUsers.UserKatalog.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט יח סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.AllTheUsers.UserMeeting.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט יח סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.CancelsForOK.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט יח סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.cancels.CancelsAddUpDate.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט יח סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.cancels.CancelsShow.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט יח סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Cities.CitiesAddUpdate.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט יח סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Cities.CitiesShow.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט יח סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Clients.ClientsAddUpdate.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט יח סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Clients.ClientsShow.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט יח סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Designer.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט יח סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Form1.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט יח סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.KindOrder.KatalogPicture.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט יח סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.KindOrder.KindOrderAddUpdate.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט יח סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.KindOrder.KindOrderShow.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט יח סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.MittingsForToday.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט יח סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Mittings.MittingsAddUpdate.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט יח סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Mittings.MittingsShow.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט יח סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.OrderDeitals.OrderDeitalsAddUpDate.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט יח סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.OrderDeitals.OrderDeitalsShow.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט יח סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.OrdersNotPayed.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט יח סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Orders.OrdersAddUpdate.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט יח סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Orders.OrdersShow.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט יח סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Payments.PaymentsAddUpdate.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט יח סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Payments.PaymentsShow.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט יח סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Properties.Resources.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט יח סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.ReadyOrders.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט יח סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Schedule.ViewSchedule.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט יח סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Welcome.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט יח סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Workers.WorkersAddUpDate.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט יח סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Workers.WorkersShow.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט יח סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.WorkingForGrafics.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט יח סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.csproj.GenerateResource.cache
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט יח סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.csproj.CoreCompileInputs.cache
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט יח סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.exe
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט יח סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.pdb
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט יח סיוון\EfratShmueliProject\EfratShmueliProject\bin\Debug\DataBase\efratSmueliProject.mdb
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט יח סיוון\EfratShmueliProject\EfratShmueliProject\bin\Debug\EfratShmueliProject.exe.config
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט יח סיוון\EfratShmueliProject\EfratShmueliProject\bin\Debug\EfratShmueliProject.exe
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט יח סיוון\EfratShmueliProject\EfratShmueliProject\bin\Debug\EfratShmueliProject.pdb
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט יח סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.csproj.AssemblyReference.cache
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט יח סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.csproj.SuggestedBindingRedirects.cache
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט יח סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.AllTheUsers.UserKatalog.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט יח סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.AllTheUsers.UserMeeting.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט יח סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.CancelsForOK.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט יח סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.cancels.CancelsAddUpDate.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט יח סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.cancels.CancelsShow.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט יח סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Cities.CitiesAddUpdate.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט יח סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Cities.CitiesShow.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט יח סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Clients.ClientsAddUpdate.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט יח סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Clients.ClientsShow.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט יח סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Designer.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט יח סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Form1.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט יח סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.KindOrder.KatalogPicture.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט יח סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.KindOrder.KindOrderAddUpdate.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט יח סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.KindOrder.KindOrderShow.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט יח סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.MittingsForToday.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט יח סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Mittings.MittingsAddUpdate.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט יח סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Mittings.MittingsShow.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט יח סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.OrderDeitals.OrderDeitalsAddUpDate.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט יח סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.OrderDeitals.OrderDeitalsShow.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט יח סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.OrdersNotPayed.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט יח סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Orders.OrdersAddUpdate.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט יח סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Orders.OrdersShow.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט יח סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Payments.PaymentsAddUpdate.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט יח סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Payments.PaymentsShow.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט יח סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Properties.Resources.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט יח סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.ReadyOrders.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט יח סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Schedule.ViewSchedule.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט יח סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Welcome.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט יח סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Workers.WorkersAddUpDate.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט יח סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Workers.WorkersShow.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט יח סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.WorkingForGrafics.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט יח סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.csproj.GenerateResource.cache
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט יח סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.csproj.CoreCompileInputs.cache
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט יח סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.exe
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט יח סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.pdb
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט יט סיוון\EfratShmueliProject\EfratShmueliProject\bin\Debug\DataBase\efratSmueliProject.mdb
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט יט סיוון\EfratShmueliProject\EfratShmueliProject\bin\Debug\EfratShmueliProject.exe.config
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט יט סיוון\EfratShmueliProject\EfratShmueliProject\bin\Debug\EfratShmueliProject.exe
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט יט סיוון\EfratShmueliProject\EfratShmueliProject\bin\Debug\EfratShmueliProject.pdb
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט יט סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.csproj.AssemblyReference.cache
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט יט סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.csproj.SuggestedBindingRedirects.cache
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט יט סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.AllTheUsers.UserKatalog.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט יט סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.AllTheUsers.UserMeeting.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט יט סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.CancelsForOK.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט יט סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.cancels.CancelsAddUpDate.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט יט סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.cancels.CancelsShow.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט יט סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Cities.CitiesAddUpdate.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט יט סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Cities.CitiesShow.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט יט סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Clients.ClientsAddUpdate.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט יט סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Clients.ClientsShow.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט יט סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Designer.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט יט סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Form1.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט יט סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.KindOrder.KatalogPicture.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט יט סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.KindOrder.KindOrderAddUpdate.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט יט סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.KindOrder.KindOrderShow.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט יט סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.MittingsForToday.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט יט סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Mittings.MittingsAddUpdate.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט יט סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Mittings.MittingsShow.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט יט סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.OrderDeitals.OrderDeitalsAddUpDate.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט יט סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.OrderDeitals.OrderDeitalsShow.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט יט סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.OrdersNotPayed.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט יט סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Orders.OrdersAddUpdate.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט יט סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Orders.OrdersShow.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט יט סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Payments.PaymentsAddUpdate.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט יט סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Payments.PaymentsShow.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט יט סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Properties.Resources.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט יט סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.ReadyOrders.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט יט סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Schedule.ViewSchedule.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט יט סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Welcome.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט יט סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Workers.WorkersAddUpDate.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט יט סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Workers.WorkersShow.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט יט סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.WorkingForGrafics.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט יט סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.csproj.GenerateResource.cache
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט יט סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.csproj.CoreCompileInputs.cache
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט יט סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.exe
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט יט סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.pdb
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט כ סיוון\EfratShmueliProject\EfratShmueliProject\bin\Debug\DataBase\efratSmueliProject.mdb
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט כ סיוון\EfratShmueliProject\EfratShmueliProject\bin\Debug\EfratShmueliProject.exe.config
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט כ סיוון\EfratShmueliProject\EfratShmueliProject\bin\Debug\EfratShmueliProject.exe
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט כ סיוון\EfratShmueliProject\EfratShmueliProject\bin\Debug\EfratShmueliProject.pdb
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט כ סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.csproj.AssemblyReference.cache
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט כ סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.csproj.SuggestedBindingRedirects.cache
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט כ סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.AllTheUsers.UserKatalog.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט כ סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.AllTheUsers.UserMeeting.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט כ סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.CancelsForOK.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט כ סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.cancels.CancelsAddUpDate.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט כ סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.cancels.CancelsShow.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט כ סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Cities.CitiesAddUpdate.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט כ סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Cities.CitiesShow.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט כ סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Clients.ClientsAddUpdate.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט כ סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Clients.ClientsShow.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט כ סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Designer.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט כ סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Form1.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט כ סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.KindOrder.KatalogPicture.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט כ סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.KindOrder.KindOrderAddUpdate.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט כ סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.KindOrder.KindOrderShow.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט כ סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.MittingsForToday.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט כ סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Mittings.MittingsAddUpdate.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט כ סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Mittings.MittingsShow.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט כ סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.OrderDeitals.OrderDeitalsAddUpDate.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט כ סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.OrderDeitals.OrderDeitalsShow.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט כ סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.OrdersNotPayed.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט כ סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Orders.OrdersAddUpdate.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט כ סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Orders.OrdersShow.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט כ סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Payments.PaymentsAddUpdate.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט כ סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Payments.PaymentsShow.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט כ סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Properties.Resources.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט כ סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.ReadyOrders.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט כ סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Schedule.ViewSchedule.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט כ סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Welcome.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט כ סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Workers.WorkersAddUpDate.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט כ סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Workers.WorkersShow.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט כ סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.WorkingForGrafics.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט כ סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.csproj.GenerateResource.cache
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט כ סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.csproj.CoreCompileInputs.cache
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט כ סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.exe
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט כ סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.pdb
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט כ סיוון\EfratShmueliProject\EfratShmueliProject\bin\Debug\DataBase\efratSmueliProject.mdb
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט כ סיוון\EfratShmueliProject\EfratShmueliProject\bin\Debug\EfratShmueliProject.exe.config
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט כ סיוון\EfratShmueliProject\EfratShmueliProject\bin\Debug\EfratShmueliProject.exe
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט כ סיוון\EfratShmueliProject\EfratShmueliProject\bin\Debug\EfratShmueliProject.pdb
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט כ סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.csproj.AssemblyReference.cache
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט כ סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.csproj.SuggestedBindingRedirects.cache
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט כ סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.AllTheUsers.UserKatalog.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט כ סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.AllTheUsers.UserMeeting.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט כ סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.CancelsForOK.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט כ סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.cancels.CancelsAddUpDate.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט כ סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.cancels.CancelsShow.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט כ סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Cities.CitiesAddUpdate.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט כ סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Cities.CitiesShow.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט כ סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Clients.ClientsAddUpdate.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט כ סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Clients.ClientsShow.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט כ סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Designer.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט כ סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Form1.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט כ סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.KindOrder.KatalogPicture.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט כ סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.KindOrder.KindOrderAddUpdate.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט כ סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.KindOrder.KindOrderShow.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט כ סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.MittingsForToday.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט כ סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Mittings.MittingsAddUpdate.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט כ סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Mittings.MittingsShow.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט כ סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.OrderDeitals.OrderDeitalsAddUpDate.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט כ סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.OrderDeitals.OrderDeitalsShow.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט כ סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.OrdersNotPayed.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט כ סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Orders.OrdersAddUpdate.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט כ סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Orders.OrdersShow.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט כ סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Payments.PaymentsAddUpdate.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט כ סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Payments.PaymentsShow.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט כ סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Properties.Resources.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט כ סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.ReadyOrders.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט כ סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Schedule.ViewSchedule.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט כ סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Welcome.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט כ סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Workers.WorkersAddUpDate.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט כ סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Workers.WorkersShow.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט כ סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.WorkingForGrafics.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט כ סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.csproj.GenerateResource.cache
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט כ סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.csproj.CoreCompileInputs.cache
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט כ סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.exe
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט כ סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.pdb
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט כא סיוון\EfratShmueliProject\EfratShmueliProject\bin\Debug\DataBase\efratSmueliProject.mdb
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט כא סיוון\EfratShmueliProject\EfratShmueliProject\bin\Debug\EfratShmueliProject.exe.config
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט כא סיוון\EfratShmueliProject\EfratShmueliProject\bin\Debug\EfratShmueliProject.exe
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט כא סיוון\EfratShmueliProject\EfratShmueliProject\bin\Debug\EfratShmueliProject.pdb
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט כא סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.csproj.AssemblyReference.cache
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט כא סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.csproj.SuggestedBindingRedirects.cache
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט כא סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.AllTheUsers.UserKatalog.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט כא סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.AllTheUsers.UserMeeting.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט כא סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.CancelsForOK.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט כא סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.cancels.CancelsAddUpDate.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט כא סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.cancels.CancelsShow.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט כא סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Cities.CitiesAddUpdate.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט כא סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Cities.CitiesShow.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט כא סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Clients.ClientsAddUpdate.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט כא סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Clients.ClientsShow.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט כא סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Designer.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט כא סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Form1.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט כא סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.KindOrder.KatalogPicture.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט כא סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.KindOrder.KindOrderAddUpdate.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט כא סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.KindOrder.KindOrderShow.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט כא סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.MittingsForToday.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט כא סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Mittings.MittingsAddUpdate.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט כא סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Mittings.MittingsShow.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט כא סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.OrderDeitals.OrderDeitalsAddUpDate.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט כא סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.OrderDeitals.OrderDeitalsShow.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט כא סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.OrdersNotPayed.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט כא סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Orders.OrdersAddUpdate.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט כא סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Orders.OrdersShow.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט כא סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Payments.PaymentsAddUpdate.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט כא סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Payments.PaymentsShow.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט כא סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Properties.Resources.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט כא סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.ReadyOrders.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט כא סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Schedule.ViewSchedule.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט כא סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Welcome.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט כא סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Workers.WorkersAddUpDate.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט כא סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Workers.WorkersShow.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט כא סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.WorkingForGrafics.resources
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט כא סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.csproj.GenerateResource.cache
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט כא סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.csproj.CoreCompileInputs.cache
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט כא סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.exe
+\\RECHASIM-DC-02\userprofile$\שמואלי אפרת\Desktop\פרויקט כא סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.pdb
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט כא סיוון\EfratShmueliProject\EfratShmueliProject\bin\Debug\DataBase\efratSmueliProject.mdb
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט כא סיוון\EfratShmueliProject\EfratShmueliProject\bin\Debug\EfratShmueliProject.exe.config
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט כא סיוון\EfratShmueliProject\EfratShmueliProject\bin\Debug\EfratShmueliProject.exe
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט כא סיוון\EfratShmueliProject\EfratShmueliProject\bin\Debug\EfratShmueliProject.pdb
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט כא סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.csproj.AssemblyReference.cache
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט כא סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.csproj.SuggestedBindingRedirects.cache
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט כא סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.AllTheUsers.UserKatalog.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט כא סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.AllTheUsers.UserMeeting.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט כא סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.CancelsForOK.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט כא סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.cancels.CancelsAddUpDate.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט כא סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.cancels.CancelsShow.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט כא סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Cities.CitiesAddUpdate.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט כא סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Cities.CitiesShow.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט כא סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Clients.ClientsAddUpdate.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט כא סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Clients.ClientsShow.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט כא סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Designer.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט כא סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Form1.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט כא סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.KindOrder.KatalogPicture.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט כא סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.KindOrder.KindOrderAddUpdate.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט כא סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.KindOrder.KindOrderShow.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט כא סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.MittingsForToday.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט כא סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Mittings.MittingsAddUpdate.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט כא סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Mittings.MittingsShow.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט כא סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.OrderDeitals.OrderDeitalsAddUpDate.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט כא סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.OrderDeitals.OrderDeitalsShow.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט כא סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.OrdersNotPayed.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט כא סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Orders.OrdersAddUpdate.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט כא סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Orders.OrdersShow.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט כא סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Payments.PaymentsAddUpdate.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט כא סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Payments.PaymentsShow.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט כא סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Properties.Resources.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט כא סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.ReadyOrders.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט כא סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Schedule.ViewSchedule.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט כא סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Welcome.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט כא סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Workers.WorkersAddUpDate.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט כא סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Workers.WorkersShow.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט כא סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.WorkingForGrafics.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט כא סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.csproj.GenerateResource.cache
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט כא סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.csproj.CoreCompileInputs.cache
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט כא סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.exe
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט כא סיוון\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.pdb
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט בעזרת ה' אין עוד מלבדו\EfratShmueliProject\EfratShmueliProject\bin\Debug\DataBase\efratSmueliProject.mdb
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט בעזרת ה' אין עוד מלבדו\EfratShmueliProject\EfratShmueliProject\bin\Debug\EfratShmueliProject.exe.config
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט בעזרת ה' אין עוד מלבדו\EfratShmueliProject\EfratShmueliProject\bin\Debug\EfratShmueliProject.exe
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט בעזרת ה' אין עוד מלבדו\EfratShmueliProject\EfratShmueliProject\bin\Debug\EfratShmueliProject.pdb
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט בעזרת ה' אין עוד מלבדו\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.csproj.AssemblyReference.cache
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט בעזרת ה' אין עוד מלבדו\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.AllTheUsers.UserKatalog.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט בעזרת ה' אין עוד מלבדו\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.AllTheUsers.UserMeeting.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט בעזרת ה' אין עוד מלבדו\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.CancelsForOK.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט בעזרת ה' אין עוד מלבדו\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.cancels.CancelsAddUpDate.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט בעזרת ה' אין עוד מלבדו\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.cancels.CancelsShow.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט בעזרת ה' אין עוד מלבדו\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Cities.CitiesAddUpdate.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט בעזרת ה' אין עוד מלבדו\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Cities.CitiesShow.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט בעזרת ה' אין עוד מלבדו\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Clients.ClientsAddUpdate.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט בעזרת ה' אין עוד מלבדו\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Clients.ClientsShow.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט בעזרת ה' אין עוד מלבדו\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Designer.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט בעזרת ה' אין עוד מלבדו\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Form1.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט בעזרת ה' אין עוד מלבדו\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.KindOrder.KatalogPicture.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט בעזרת ה' אין עוד מלבדו\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.KindOrder.KindOrderAddUpdate.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט בעזרת ה' אין עוד מלבדו\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.KindOrder.KindOrderShow.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט בעזרת ה' אין עוד מלבדו\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.MittingsForToday.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט בעזרת ה' אין עוד מלבדו\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Mittings.MittingsAddUpdate.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט בעזרת ה' אין עוד מלבדו\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Mittings.MittingsShow.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט בעזרת ה' אין עוד מלבדו\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.OrderDeitals.OrderDeitalsAddUpDate.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט בעזרת ה' אין עוד מלבדו\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.OrderDeitals.OrderDeitalsShow.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט בעזרת ה' אין עוד מלבדו\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.OrdersNotPayed.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט בעזרת ה' אין עוד מלבדו\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Orders.OrdersAddUpdate.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט בעזרת ה' אין עוד מלבדו\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Orders.OrdersShow.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט בעזרת ה' אין עוד מלבדו\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Payments.PaymentsAddUpdate.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט בעזרת ה' אין עוד מלבדו\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Payments.PaymentsShow.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט בעזרת ה' אין עוד מלבדו\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Properties.Resources.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט בעזרת ה' אין עוד מלבדו\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.ReadyOrders.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט בעזרת ה' אין עוד מלבדו\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Schedule.ViewSchedule.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט בעזרת ה' אין עוד מלבדו\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Welcome.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט בעזרת ה' אין עוד מלבדו\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Workers.WorkersAddUpDate.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט בעזרת ה' אין עוד מלבדו\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.Workers.WorkersShow.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט בעזרת ה' אין עוד מלבדו\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.WorkingForGrafics.resources
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט בעזרת ה' אין עוד מלבדו\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.csproj.GenerateResource.cache
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט בעזרת ה' אין עוד מלבדו\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.csproj.CoreCompileInputs.cache
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט בעזרת ה' אין עוד מלבדו\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.exe
+D:\דיסק קשיח 500\משפחה\אפרת\כיתה יב\פרויקט בעזרת ה' אין עוד מלבדו\EfratShmueliProject\EfratShmueliProject\obj\Debug\EfratShmueliProject.pdb
