@@ -1,4 +1,5 @@
-#🎨 Graphic Design Studio Management System
+# Graphic Design Studio Management System
+
 A management tool built with C# / .NET WinForms and an integrated Access database, designed to streamline studio operations and reporting.
 
 
